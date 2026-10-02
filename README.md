@@ -85,3 +85,8 @@ Bank_Transaction_Analytics/
 **Srinivas Pappu**
 
 GitHub: [Srinivas184](https://github.com/Srinivas184)
+ 
+
+## Dashboard Preview
+
+![Bank Transaction Analytics Dashboard](dashboard/dashboard_preview.png)
